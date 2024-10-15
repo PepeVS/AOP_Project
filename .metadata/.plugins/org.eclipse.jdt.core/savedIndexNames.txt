@@ -1,2 +1,7 @@
 INDEX VERSION 1.134+/home/pepe/Programacion/Workspaces/AOP/.metadata/.plugins/org.eclipse.jdt.core
+<<<<<<< HEAD
+=======
+2054852854.index
+3929116404.index
+>>>>>>> origin/main
 1865797976.index
